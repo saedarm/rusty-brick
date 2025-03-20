@@ -2,8 +2,7 @@
 
 A classic Breakout game implementation using Rust and the Yew framework to create a WebAssembly-powered browser game.
 
-![Breakout Game Screenshot](https://via.placeholder.com/800x600.png?text=Rust+Yew+Breakout+Game)
-
+![Breakout Game Screenshot](https://fity.club/lists/suggestions/atari-breakout-game-online)
 ## Features
 
 - Paddle controlled with arrow keys
